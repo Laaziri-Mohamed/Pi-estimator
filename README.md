@@ -1,5 +1,5 @@
 # pi-estimator
-Calcul de l'approximation de pi avec les méthodes spark et numpy et calcul du temps d'exécution des deux méthodes
+Ce projet consiste à une estimation de pi par une approche de tirage aléatoire. Deux méthodes sont utilisées à savoir l’utilisation de Spark d’une part, l’utilisation de numpy et calcul du temps d'exécution des deux méthodes.
 
 ## Exécution du programme depuis le terminal (sous Windows)
   1) Téléchargez le zip de la branche pi-estimator.
